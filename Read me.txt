@@ -1,0 +1,6 @@
+this is a practice project and it was a little mind twisting to be honest. 
+
+
+in this project i did't care about The UI and the UX i was focusing in sharping my vanilla javascript.
+
+This is the first time i made a project with mp3 sound
